@@ -1,0 +1,23 @@
+.buttonIniciar {
+  background: #f9e141;
+  width: 250px;
+  height: 58px;
+
+  margin-bottom: 20px;
+
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+
+  font-family: Nunito;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 41px;
+
+  color: #1f1f1f;
+}
+
+@media screen and (min-width: 800px) {
+  .buttonIniciar {
+    width: 350px;
+  }
+}
